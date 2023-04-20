@@ -43,6 +43,7 @@ public class App {
         }
 
         // Métodos
+
         int total = App.somar(5, 6);
         System.out.println(total);
     }
