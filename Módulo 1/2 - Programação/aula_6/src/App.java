@@ -12,8 +12,6 @@ public class App {
         // Pedido p = new Pedido();
 
         Conta cp = new Poupanca();
-        cp.setSaldo(5000);
-        cp.imprimeExtrato();
 
     }
 }
